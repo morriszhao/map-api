@@ -1,0 +1,22 @@
+{
+    "name": "zhaolm/laravel-tengxunmapapi",
+    "description": "描述",
+    "type": "library",
+    "require-dev": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhaolm",
+            "email": "1269665498@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	},
+	"autoload": {
+		"psr-4":{
+			"Map\\": "src/Map"
+		}
+	}
+}

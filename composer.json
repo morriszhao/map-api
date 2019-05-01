@@ -1,5 +1,5 @@
 {
-    "name": "zhaolm/laravel-tengxunmapapi",
+    "name": "zhaolm/mapApi",
     "description": "描述",
     "type": "library",
     "require-dev": {

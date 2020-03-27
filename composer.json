@@ -1,6 +1,6 @@
 {
     "name": "zhaolm/map-api",
-    "description": "描述",
+    "description": "map api Tengxun Baidu PHP 地址转为经纬度",
     "type": "library",
     "require-dev": {
     },

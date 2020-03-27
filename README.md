@@ -5,7 +5,7 @@ tengxunmapapi
 
 安装
 ```sql
-composer require zhaolm/map-api
+composer require morriszhao/map-api
 
 ```
 

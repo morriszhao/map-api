@@ -20,8 +20,8 @@ use Map\Tengxun\TengxunMapApi;
 $address = '四川省成都市天府五街';
 
 
-$txMapKey = '';
-$txMapSecret = '';
+$txMapKey = '<YOUR KEY>';
+$txMapSecret = '<YOU SECRET>';
 
 
 $map = new TengxunMapApi($txMapKey, $txMapSecret);

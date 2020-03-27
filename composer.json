@@ -1,5 +1,5 @@
 {
-    "name": "morriszhao/map-api",
+    "name": "zhaolm/map-api",
     "description": "map api Tengxun Baidu PHP 地址转为经纬度",
     "type": "library",
     "require-dev": {
